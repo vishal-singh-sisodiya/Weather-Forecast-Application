@@ -24,7 +24,7 @@ This app fetches real-time weather data from an external weather API and updates
 ![image](https://github.com/user-attachments/assets/4a96c4cf-122c-4ba9-a14e-2d0817d6db1d)
 ![image](https://github.com/user-attachments/assets/773d6c4f-2b8e-4cf7-bb83-17eece6b7826)
 ![image](https://github.com/user-attachments/assets/0f82db8d-bcf3-46ba-9e6c-2a6c18637023)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/edb0f935-e243-4cad-8348-88b92a4a74ab)
 
 
 
